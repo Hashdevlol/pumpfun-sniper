@@ -46,7 +46,7 @@ A professional CLI tool for monitoring and analyzing PumpFun token launches on S
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pumpfun-sniper.git
+git clone https://github.com/Hashdevlol/pumpfun-sniper.git
 cd pumpfun-sniper
 
 # Install dependencies
@@ -241,6 +241,6 @@ This tool is for educational and research purposes only. Always conduct your own
 
 **Built with ❤️ for the Solana community**
 
-[Report Bug](https://github.com/yourusername/pumpfun-sniper/issues) • [Request Feature](https://github.com/yourusername/pumpfun-sniper/issues) • [Documentation](https://github.com/yourusername/pumpfun-sniper/wiki)
+[Report Bug](https://github.com/Hashdevlol/pumpfun-sniper/issues) • [Request Feature](https://github.com/Hashdevlol/pumpfun-sniper/issues) • [Documentation](https://github.com/Hashdevlol/pumpfun-sniper/wiki)
 
 </div>
